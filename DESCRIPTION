@@ -1,0 +1,15 @@
+Package: dDIF
+Title: MH and LR DIF Detection for Dichotomously Scored Items
+Version: 0.0.0.9000
+Authors@R: person("Brooke", "Milstead", email =
+  "brooke.milstead@huskers.unl.edu", role = c("aut", "cre"))
+Description: A tool to evaluate differential item functioning (DIF) for items
+    that are dichotomously scored.  Two approaches to DIF detection are
+    available including the Mantel-Haenszel (MH) and Logistic Regression (LR)
+    DIF detection methods.
+Depends:
+    R (>= 3.3.0)
+License: GPL-2
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 5.0.1
